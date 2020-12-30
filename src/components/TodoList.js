@@ -6,6 +6,7 @@ export default class TodoList extends Component {
         return (
             <div>
                 <h1>hello from TodoList</h1>
+                <br/>
             </div>
         )
     }
